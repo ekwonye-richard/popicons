@@ -17,7 +17,7 @@ $ bower install popicons
 
 ### DEFAULT CSS
 
-Copy the Popicons directory into your project. Reference the location to your popicons.min.css in the head section of your site's HTML.
+Copy the Popicons directory into your project. Reference the location to your popicons.min.css in the &lt;head&gt; section of your site's HTML.
 
 ```html
 <link rel="stylesheet" href="path/popicons.min.css">
